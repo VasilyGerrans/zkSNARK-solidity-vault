@@ -1,0 +1,23 @@
+{
+  "name": "zks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "@types/sha.js": "^2.4.0",
+    "circomlib": "^2.0.5",
+    "hardhat": "^2.11.2"
+  },
+  "dependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.1.1",
+    "circom": "^0.5.46",
+    "circom_tester": "^0.0.18",
+    "dotenv": "^16.0.3",
+    "hardhat-circom": "^3.3.1",
+    "hardhat-tracer": "^1.1.0-rc.9",
+    "sha.js": "^2.4.11",
+    "snarkjs": "^0.5.0",
+    "web3-utils": "^1.8.0"
+  }
+}
